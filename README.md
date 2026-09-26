@@ -90,6 +90,7 @@ projet-ecommerce-app/
 ## 👤 Auteur
 
 - **Yassir EL MANSSOURI** - [@yassir-el-manssouri](https://github.com/yassir-el-manssouri) | [LinkedIn](https://www.linkedin.com/in/yassir-el-manssouri/)
+  Étudiant / Ingénieur à l'École Marocaine des Sciences de l'Ingénieur (EMSI).
 
 ---
 
